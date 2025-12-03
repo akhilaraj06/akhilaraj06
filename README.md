@@ -51,24 +51,24 @@
 *Note: This section visually represents the tools listed above.*
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="cloudformation" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonwebservices.svg" alt="AWS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/microsoftazure.svg" alt="Azure" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/terraform.svg" alt="Terraform" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/ansible.svg" alt="Ansible" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/amazonwebservices.svg" alt="CloudFormation" width="40" height="40"/> 
 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argo cd" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jenkins.svg" alt="Jenkins" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/githubactions.svg" alt="GitHub Actions" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/argocd.svg" alt="Argo CD" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
 
-<img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/prometheus.svg" alt="Prometheus" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/grafana.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gnubash.svg" alt="Bash" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/centos.svg" alt="Linux/CentOS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/jira.svg" alt="JIRA" width="40" height="40"/>
 </p>
 
 ---
