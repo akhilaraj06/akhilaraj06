@@ -1,40 +1,85 @@
-
-
 <h1 align="center">Hi 👋, I'm Akhila Raj</h1>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilaraj06&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaraj06" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+<img align="right" alt="DevOps" width="300" src="https://media.giphy.com/media/L0My6f8FmHooG/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/akhila-raj-b-r-8a257318a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/akhila-raj-b-r-8a257318a" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=akhilaraj06&label=Profile%20views&color=0e75b6&style=flat" alt="akhilaraj06" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently focusing on **DevOps & Cloud Engineering**
+- 💻 2+ years of experience in **Web Development** 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilaraj06&show_icons=true&locale=en&layout=compact" alt="akhilaraj06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilaraj06&show_icons=true&locale=en" alt="akhilaraj06" /></p>
+### 🛠️ Technical Expertise (DevOps & Cloud)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilaraj06&" alt="akhilaraj06" /></p>
+* **Cloud Platforms:** AWS (ECS, ALB, VPC, IAM, CloudWatch, SNS), Azure
+* **CI/CD & Automation:** GitHub Actions, Jenkins, Argo CD, Bash, YAML
+* **Infrastructure as Code (IaC):** Terraform, CloudFormation, Ansible
+* **Containerization & Orchestration:** Docker, Docker Compose, Kubernetes
+* **Monitoring & Logging:** Prometheus, Grafana
+* **Version Control:** Git, GitHub
+* **Scripting & OS:** Python, PowerShell, Linux (Ubuntu, Amazon Linux)
+* **Project Management:** JIRA
 
+---
 
+### 💼 Professional Experience & Client Delivery
 
+* Developed static, dynamic, WooCommerce, and custom WordPress websites.
+* Built a Shopify dropshipping store with automation and custom theme setup.
+* Managed hosting, DNS, SSL, IMAP email setup, backups, domain linking, and migrations.
+* Conducted client meetings, requirement analysis, and provided website management training.
 
-<!--
-**akhilaraj06/akhilaraj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left">
+<a href="https://linkedin.com/in/akhila-raj-b-r-8a257318a" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://github.com/akhilaraj06" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="30" width="40" />
+</a>
+</p>
 
--->
+---
+
+### 🚀 Languages & Tools (Logos):
+
+*Note: This section visually represents the tools listed above.*
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-icon.svg" alt="cloudformation" width="40" height="40"/> 
+
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github actions" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argo cd" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+
+<img src="https://www.vectorlogo.zone/logos/prometheus/prometheus-icon.svg" alt="prometheus" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilaraj06&show_icons=true&locale=en" alt="Akhila Raj's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhilaraj06&show_icons=true&locale=en&layout=compact" alt="Akhila Raj's Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilaraj06&" alt="Akhila Raj's GitHub Streak" />
+</p>
