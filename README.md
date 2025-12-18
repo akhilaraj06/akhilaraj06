@@ -1,53 +1,54 @@
 <h1 align="center">Hi 👋, I'm Akhila Raj</h1>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/L0My6f8FmHooG/giphy.gif" width="300" alt="DevOps GIF">
+DevOps & Cloud Engineer | Former Web Developer
 </p>
 
 ---
 
-## 👩‍💻 About Me  
-- 🌱 Focused on **DevOps & Cloud Engineering**  
-- 💻 2+ years of experience in **Web Development**  
-- 🚀 Transitioning into full-time **DevOps Engineer** role  
+## 👩‍💻 About Me
+- 🌱 Focused on **DevOps & Cloud Engineering**
+- 💻 2+ years of experience in **Web Development**
+- 🚀 Transitioning into a full-time **DevOps Engineer** role
+- 🧠 Strong hands-on experience through real-world projects
 
 ---
 
 ## 🛠️ DevOps & Cloud Skills
 
-### **Cloud Platforms**
-- AWS (EC2, VPC, IAM, RDS, ECS, ALB, CloudWatch, SNS)  
-- Azure (VMs, Resource Groups)
+### ☁️ Cloud Platforms
+- AWS (EC2, VPC, IAM, RDS, ECS, ALB, CloudWatch, SNS)
+- Azure (Virtual Machines, Resource Groups)
 
-### **CI/CD & Automation**
-- Jenkins  
-- GitHub Actions  
-- Argo CD  
-- Bash & YAML scripting  
+### 🔄 CI/CD & Automation
+- Jenkins
+- GitHub Actions
+- Argo CD
+- Bash & YAML scripting
 
-### **Infrastructure as Code**
-- Terraform  
-- Ansible  
-- CloudFormation  
+### 🏗️ Infrastructure as Code
+- Terraform
+- Ansible
+- CloudFormation
 
-### **Containers & Orchestration**
-- Docker  
-- Docker Compose  
-- Kubernetes  
+### 📦 Containers & Orchestration
+- Docker
+- Docker Compose
+- Kubernetes
 
-### **Monitoring**
-- Prometheus  
-- Grafana  
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
 
-### **Other Skills**
-- Git, GitHub  
-- Python  
-- Linux (Ubuntu & Amazon Linux)  
-- JIRA  
+### 🧩 Other Skills
+- Git & GitHub
+- Python
+- Linux (Ubuntu, Amazon Linux)
+- JIRA
 
 ---
 
-## 🚀 Languages & Tools (Badges)
+## 🚀 Languages & Tools
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -69,26 +70,13 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilaraj06&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilaraj06&layout=compact&theme=tokyonight" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhilaraj06&theme=tokyonight" height="180">
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/akhila-raj-b-r-8a257318a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/akhilaraj06" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/akhila-raj-b-r-8a257318a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akhilaraj06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
